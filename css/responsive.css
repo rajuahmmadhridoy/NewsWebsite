@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1199px) {
+    
+    .headerTopRight {
+        margin-left: 90px;
+    }
+
+
+  }
+@media only screen and (max-width: 992px) {
+    .container {
+        max-width: 992px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .headerTopRight {
+        margin-left: 85px;
+    }
+    .logIn {
+        padding-left: 15px;
+    }
+    .loginArea .headerIcons {
+        margin-right: 0;
+    }
+
+  }
